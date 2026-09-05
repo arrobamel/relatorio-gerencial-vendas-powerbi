@@ -1,10 +1,11 @@
 # Relatório Gerencial de Vendas - Power BI
 
-[Power BI](https://img.shields.io/badge/Power_BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
-[Concluído](https://img.shields.io/badge/Status-Concluído-0A3D62?style=for-the-badge&logo=checkmarx&logoColor=white)
-[DIO](https://img.shields.io/badge/DIO-Bootcamp-1E90FF?style=for-the-badge&logo=rocket&logoColor=white)
-[Power Query](https://img.shields.io/badge/Power_Query-ETL-5DADE2?style=for-the-badge&logo=databricks&logoColor=black)
-[Dashboard](https://img.shields.io/badge/Dashboard-Gerencial-2C3E50?style=for-the-badge&logo=bar-chart&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Concluído](https://img.shields.io/badge/Status-Concluído-0A3D62?style=for-the-badge)
+![DIO](https://img.shields.io/badge/DIO-Bootcamp-1E90FF?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-5DADE2?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Gerencial-2C3E50?style=for-the-badge)
+
 
 Dashboard desenvolvido no bootcamp DIO com foco em análise gerencial.
 
